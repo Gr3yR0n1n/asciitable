@@ -35,7 +35,7 @@ int main() {
 	printf(" 28   1C  034  FS  (file separator)        | 60   3C  074   <   | 92   4C  112   \\ |124   7C  174   |  \n");
 	printf(" 29   1D  035  GS  (group separator)       | 61   3D  075   =   | 93   4D  112   ] |125   7D  175   }  \n");
 	printf(" 30   1E  036  RS  (record separator)      | 62   3E  076   >   | 94   4E  112   ^ |126   7E  176   ~  \n");
-
+    printf(" 31   1F  037  US  (unit separator)        | 63   3F  077   ?   | 95   5F  137   _ |127   7F  177   DEL\n");
 	return 0;
 }
 
